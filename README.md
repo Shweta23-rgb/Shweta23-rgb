@@ -9,7 +9,7 @@
 🌱 My motto: *Do something differently every day and improve by 0.1%*.  
 🤝 I enjoy collaborating with fellow data enthusiasts, and I'm always open to learning something new.
 
-[![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shweta23-rgb)](https://github.com/Shweta23-rgb/github-readme-stats)
+ ![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shweta23-rgb&show_icons=true&theme=dark)
 
 
 
