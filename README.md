@@ -1,27 +1,14 @@
-## Hi, I am Swetha! 👋
+### Hi, I am Swetha! 👋
 
-<!--
-**Shweta23-rgb/Shweta23-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 I’m currently pursuing my **Master’s in Information Systems and Data Science** at **Syracuse University**, New York.  
+- 💼 I’m a **Data Analyst & Aspiring Data Scientist**, sharing my **projects, learning journey, and insights** online.  
+- 🔬 I interned at **Zoetis** with their **Data Science & Analytics team**, where I helped researchers organize and visualize data to improve operational efficiency.  
+- 🧠 I'm driven by curiosity — I love uncovering **patterns in data** (and sometimes in daily life too!).  
+- 🌱 My motto: *Do something differently every day and improve by 0.1%*.  
+- 🤝 I enjoy collaborating with fellow data enthusiasts, and I'm always open to learning something new.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 👩‍💻 Intro
-
-Hi, I’m **Swetha Lakkoju** — a data enthusiast who loves turning raw numbers into meaningful stories!  
-I'm deeply passionate about data and its potential to unlock valuable insights. I excel in analyzing and interpreting complex datasets, always aiming to uncover meaningful patterns and trends.  
-My approach is practical and focused on delivering tangible results through data-driven decision-making.  
-
-📚 I’m also a keen learner, always exploring new tools, books, and ideas. I believe in getting **0.1% better every day**, embracing growth in both life and data.
 
 
 
