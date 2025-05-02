@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-                ![coding-girl](https://github.com/user-attachments/assets/dc8551b7-4ce9-4ed3-9bc8-a631c55da21d)
+![coding-girl](https://github.com/user-attachments/assets/dc8551b7-4ce9-4ed3-9bc8-a631c55da21d)
 
 
 My name is Swetha, and I’m a graduate student in Information Systems, passionate about all things **Data Analytics** and **Data Science**.
