@@ -1,6 +1,7 @@
 ### Hi there! 👋
+<img width="281" alt="Screenshot 2025-04-09 at 11 07 12 AM" src="https://github.com/user-attachments/assets/f3c44cc1-0b69-4cb1-a147-40c2a856b50a" />
 
-![coding-girl](https://github.com/user-attachments/assets/dc8551b7-4ce9-4ed3-9bc8-a631c55da21d)
+
 
 
 My name is Swetha, and I’m a graduate student in Information Systems, passionate about all things **Data Analytics** and **Data Science**.
