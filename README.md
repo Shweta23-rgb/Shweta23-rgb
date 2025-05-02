@@ -4,6 +4,15 @@
     <img width="281" alt="Screenshot 2025-04-09 at 11 07 12 AM" src="https://github.com/user-attachments/assets/f3c44cc1-0b69-4cb1-a147-40c2a856b50a" />
 </div>
 
+<div align="center">
+    <img width="281" alt="Screenshot 2025-04-09 at 11 07 12 AM" src="https://github.com/user-attachments/assets/f3c44cc1-0b69-4cb1-a147-40c2a856b50a" />
+    <br><br>
+    <a href="https://www.linkedin.com/in/swetha-lakkoju/">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
+    </a>
+</div>
+
+
 
 
 
