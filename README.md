@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img width="281" alt="Coding from Home" src="https://github.com/user-attachments/assets/f3c44cc1-0b69-4cb1-a147-40c2a856b50a" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHF3OXJwYXQ1NGVwMmEya215enBnaTgxMWwyMHlobTExenZhbDVmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" alt="Coding from Home GIF"/>
     <br><br>
     <a href="https://www.linkedin.com/in/swetha-lakkoju/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,7 +12,6 @@
         <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
 </div>
-
 
 My name is Swetha, and I’m a graduate student in Information Systems, passionate about all things **Data Analytics** and **Data Science**.
 
