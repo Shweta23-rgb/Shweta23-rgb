@@ -2,16 +2,17 @@
 
 
 <div align="center">
-    <img width="281" alt="Screenshot 2025-04-09 at 11 07 12 AM" src="https://github.com/user-attachments/assets/f3c44cc1-0b69-4cb1-a147-40c2a856b50a" />
+    <img width="281" alt="Coding from Home" src="https://github.com/user-attachments/assets/f3c44cc1-0b69-4cb1-a147-40c2a856b50a" />
     <br><br>
     <a href="https://www.linkedin.com/in/swetha-lakkoju/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
     <a href="https://medium.com/@shwetalakkoju" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" width="40" height="40" />
+        <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
 </div>
+
 
 My name is Swetha, and I’m a graduate student in Information Systems, passionate about all things **Data Analytics** and **Data Science**.
 
