@@ -13,7 +13,7 @@
     </a>
 </div>
 
-My name is Swetha, and I’m a graduate student in Information Systems, passionate about all things **Data Analytics** and **Data Science**.
+My name is Swetha, and I’m a graduate student majoring in Information Systems, passionate about all things **Data Analytics** and **Data Science**.
 
 ## 👩‍💻 About Me
 
